@@ -90,7 +90,10 @@ npx hardhat test
 
 Should show **30 passing**.
 
-## Optional: use Remix (for live demos or filming)
+<img width="152" height="50" alt="Screenshot 2026-05-20 at 11 44 42 pm" src="https://github.com/user-attachments/assets/45e641a1-7527-4bc4-bbe0-296e0de8c805" />
+
+
+Use Remix (If you wanna try it out yourself)
 
 1. Open [remix.ethereum.org](https://remix.ethereum.org)
 2. Create 5 new files under the `contracts/` folder, one per `.sol` file
